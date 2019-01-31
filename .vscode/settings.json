@@ -1,12 +1,18 @@
 {
   "files.eol": "\n",
-  "eslint.autoFixOnSave": true,
+  "eslint.autoFixOnSave": false,
+  "eslint.alwaysShowStatus": true,
+  // "eslint.options": {
+  //   "extensions": [ ".html", ".js", ".vue", ".jsx" ]
+  // },
   // "eslint.validate": [
-  //   "javascript"
+  //   { "language": "html", "autoFix": false },
+  //   { "language": "vue", "autoFix": true },
+  //   { "language": "javascript", "autoFix": true },
+  //   { "language": "javascriptreact", "autoFix": true }
   // ],
   "javascript.format.enable": false,
-  // "editor.formatOnSave": false,
-  // "[javascript]": {
-  //   "editor.formatOnSave": false
-  // }
+  // "html.format.enable": true,
+  "editor.formatOnSave": false,
+  "prettier.eslintIntegration": true
 }
