@@ -4,9 +4,6 @@ module.exports = {
     "node": true,
     "amd": true,
   },
-  // "parserOptions": {
-  //   "ecmaVersion": 6
-  // },
   "extends": [
     'eslint:recommended'
   ],

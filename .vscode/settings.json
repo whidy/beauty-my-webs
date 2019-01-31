@@ -5,8 +5,5 @@
   //   "javascript"
   // ],
   "javascript.format.enable": false,
-  // "editor.formatOnSave": false,
-  // "[javascript]": {
-  //   "editor.formatOnSave": false
-  // }
+  "editor.formatOnSave": false,
 }

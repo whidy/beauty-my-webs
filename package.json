@@ -4,7 +4,7 @@
   "description": "demos with eslint to beauty javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lintfix": "eslint --fix --ext .js,.vue --ignore-path .gitignore ."
   },
   "keywords": [
     "eslint",
