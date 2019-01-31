@@ -64,3 +64,6 @@ without prettier plugin, you need do save only to format file, if you have insta
 ## Other config demo
 
 * [es6 with airbnb](https://github.com/whidy/beauty-my-webs/tree/es6-airbnb)
+* [javascript standard]()draft
+* [eslint with vue]()draft
+* [eslint with nuxt]()draft
