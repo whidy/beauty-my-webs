@@ -2,7 +2,11 @@
 
 Many demos with eslint babel javascript es6.
 
-Here is es6 eslint demo use airbnb.
+all demo with all kind of files formatting configurations, the testing file with name `testingfile`, such as `testingfile.js`, you can try it your self.
+
+## ES6 With Airbnb
+
+Here is es6 eslint demo use [airbnb](https://github.com/airbnb/javascript).
 
 but airbnb mostly for react project, so Here is a airbnb base rule, html files might cause a eslint error like `Parsing error: Unexpected token <`, so I add a config for `package.json` at the bottom `"eslintIgnore": ["*.html"]`, reference: [Using eslintIgnore in package.json](https://eslint.org/docs/user-guide/configuring#using-eslintignore-in-packagejson)
 
